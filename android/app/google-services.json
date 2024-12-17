@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968337210517",
+    "project_id": "hanguiemos-ae6e1",
+    "storage_bucket": "hanguiemos-ae6e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968337210517:android:68076930bdf457df61ef9c",
+        "android_client_info": {
+          "package_name": "com.example.hanguiemos_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7u7cko8gNS-wvZN6TVWJufVXQgwmpmF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
